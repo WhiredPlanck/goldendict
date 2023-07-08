@@ -1004,7 +1004,7 @@
     <None Include="flags\er.png">
       <Filter>Resources\Flags</Filter>
     </None>
-    <None Include="icons\error.png">
+    <None Include="data\icons\error.png">
       <Filter>Resources\Flags</Filter>
     </None>
     <None Include="flags\es.png">
@@ -1727,7 +1727,7 @@
     <None Include="qt-style.css">
       <Filter>Resources\CSS</Filter>
     </None>
-    <None Include="icons\icon.svg">
+    <None Include="data\icons\icon.svg">
       <Filter>Resources\Icons</Filter>
     </None>
     <None Include="flags\id.png">
@@ -1751,195 +1751,195 @@
     <None Include="flags\mc.png">
       <Filter>Resources\Flags</Filter>
     </None>
-    <None Include="icons\video.png">
+    <None Include="data\icons\video.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\warning.png">
+    <None Include="data\icons\warning.png">
       <Filter>Resources\Icons</Filter>
     </None>
     <None Include="flags\wiki.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\windows-list.png">
+    <None Include="data\icons\windows-list.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\wizard.png">
+    <None Include="data\icons\wizard.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\interface.png">
+    <None Include="data\icons\interface.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\internet.png">
+    <None Include="data\icons\internet.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\macicon.png">
+    <None Include="data\icons\macicon.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\mdict.png">
+    <None Include="data\icons\mdict.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\menu_button.png">
+    <None Include="data\icons\menu_button.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\network.png">
+    <None Include="data\icons\network.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\next.png">
+    <None Include="data\icons\next.png">
       <Filter>Resources\Icons</Filter>
     </None>
     <None Include="flags\other.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\playsound.png">
+    <None Include="data\icons\playsound.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\prefix.png">
+    <None Include="data\icons\prefix.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\previous.png">
+    <None Include="data\icons\previous.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\print.png">
+    <None Include="data\icons\print.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\programicon.png">
+    <None Include="data\icons\programicon.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\programicon_scan.png">
+    <None Include="data\icons\programicon_scan.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\programs.png">
+    <None Include="data\icons\programs.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\pushpin.png">
+    <None Include="data\icons\pushpin.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\reload.png">
+    <None Include="data\icons\reload.png">
       <Filter>Resources\Icons</Filter>
     </None>
-    <None Include="icons\system-search.png">
+    <None Include="data\icons\system-search.png">
       <Filter>Resources\Icons</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="icons\programicon.ico">
+    <Image Include="data\icons\programicon.ico">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\programicon_old.ico">
+    <Image Include="data\icons\programicon_old.ico">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\1downarrow.png">
+    <Image Include="data\icons\1downarrow.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\addtab.png">
+    <Image Include="data\icons\addtab.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\arrow.png">
+    <Image Include="data\icons\arrow.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\blank.png">
+    <Image Include="data\icons\blank.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\book.png">
+    <Image Include="data\icons\book.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\bookcase.png">
+    <Image Include="data\icons\bookcase.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\clear.png">
+    <Image Include="data\icons\clear.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\closetab.png">
+    <Image Include="data\icons\closetab.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\collapse_article.png">
+    <Image Include="data\icons\collapse_article.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\collapse_article_hovered.png">
+    <Image Include="data\icons\collapse_article_hovered.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\collapse_opt.png">
+    <Image Include="data\icons\collapse_opt.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\configure.png">
+    <Image Include="data\icons\configure.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\downarrow.png">
+    <Image Include="data\icons\downarrow.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\expand_article.png">
+    <Image Include="data\icons\expand_article.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\expand_article_hovered.png">
+    <Image Include="data\icons\expand_article_hovered.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\expand_opt.png">
+    <Image Include="data\icons\expand_opt.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\fileopen.png">
+    <Image Include="data\icons\fileopen.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\filesave.png">
+    <Image Include="data\icons\filesave.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\forvo.png">
+    <Image Include="data\icons\forvo.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\highlighter.png">
+    <Image Include="data\icons\highlighter.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\hotkeys.png">
+    <Image Include="data\icons\hotkeys.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\icon_dsl_native.png">
+    <Image Include="data\icons\icon_dsl_native.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\icon32_aard.png">
+    <Image Include="data\icons\icon32_aard.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\icon32_bgl.png">
+    <Image Include="data\icons\icon32_bgl.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\icon32_dictd.png">
+    <Image Include="data\icons\icon32_dictd.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\icon32_dsl.png">
+    <Image Include="data\icons\icon32_dsl.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\icon32_hunspell.png">
+    <Image Include="data\icons\icon32_hunspell.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\icon32_lingoes.png">
+    <Image Include="data\icons\icon32_lingoes.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\icon32_sdict.png">
+    <Image Include="data\icons\icon32_sdict.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\icon32_stardict.png">
+    <Image Include="data\icons\icon32_stardict.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\icon32_wiki.png">
+    <Image Include="data\icons\icon32_wiki.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\icon32_xdxf.png">
+    <Image Include="data\icons\icon32_xdxf.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\icon32_zoombase.png">
+    <Image Include="data\icons\icon32_zoombase.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\icon32_zoomin.png">
+    <Image Include="data\icons\icon32_zoomin.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\icon32_zoomout.png">
+    <Image Include="data\icons\icon32_zoomout.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\programicon_old.png">
+    <Image Include="data\icons\programicon_old.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\playsound_color.png">
+    <Image Include="data\icons\playsound_color.png">
       <Filter>Resources\Icons</Filter>
     </Image>
-    <Image Include="icons\playsound_full.png">
+    <Image Include="data\icons\playsound_full.png">
       <Filter>Resources\Icons</Filter>
     </Image>
   </ItemGroup>
