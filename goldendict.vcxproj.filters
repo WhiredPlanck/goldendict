@@ -1460,106 +1460,106 @@
     </QtUICCompile>
   </ItemGroup>
   <ItemGroup>
-    <QtTranslate Include="locale\ar_SA.ts">
+    <QtTranslate Include="data\locale\ar_SA.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\ay_WI.ts">
+    <QtTranslate Include="data\locale\ay_WI.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\be_BY.ts">
+    <QtTranslate Include="data\locale\be_BY.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\be_BY@latin.ts">
+    <QtTranslate Include="data\locale\be_BY@latin.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\bg_BG.ts">
+    <QtTranslate Include="data\locale\bg_BG.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\cs_CZ.ts">
+    <QtTranslate Include="data\locale\cs_CZ.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\de_DE.ts">
+    <QtTranslate Include="data\locale\de_DE.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\el_GR.ts">
+    <QtTranslate Include="data\locale\el_GR.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\es_AR.ts">
+    <QtTranslate Include="data\locale\es_AR.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\es_BO.ts">
+    <QtTranslate Include="data\locale\es_BO.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\es_ES.ts">
+    <QtTranslate Include="data\locale\es_ES.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\fr_FR.ts">
+    <QtTranslate Include="data\locale\fr_FR.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\it_IT.ts">
+    <QtTranslate Include="data\locale\it_IT.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\ja_JP.ts">
+    <QtTranslate Include="data\locale\ja_JP.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\ko_KR.ts">
+    <QtTranslate Include="data\locale\ko_KR.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\lt_LT.ts">
+    <QtTranslate Include="data\locale\lt_LT.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\nl_NL.ts">
+    <QtTranslate Include="data\locale\nl_NL.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\pl_PL.ts">
+    <QtTranslate Include="data\locale\pl_PL.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\pt_BR.ts">
+    <QtTranslate Include="data\locale\pt_BR.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\qu_WI.ts">
+    <QtTranslate Include="data\locale\qu_WI.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\ru_RU.ts">
+    <QtTranslate Include="data\locale\ru_RU.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\sk_SK.ts">
+    <QtTranslate Include="data\locale\sk_SK.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\sq_AL.ts">
+    <QtTranslate Include="data\locale\sq_AL.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\tg_TJ.ts">
+    <QtTranslate Include="data\locale\tg_TJ.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\tr_TR.ts">
+    <QtTranslate Include="data\locale\tr_TR.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\uk_UA.ts">
+    <QtTranslate Include="data\locale\uk_UA.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\vi_VN.ts">
+    <QtTranslate Include="data\locale\vi_VN.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\zh_CN.ts">
+    <QtTranslate Include="data\locale\zh_CN.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\zh_TW.ts">
+    <QtTranslate Include="data\locale\zh_TW.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\sr_SR.ts">
+    <QtTranslate Include="data\locale\sr_SR.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\sv_SE.ts">
+    <QtTranslate Include="data\locale\sv_SE.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\tk_TM.ts">
+    <QtTranslate Include="data\locale\tk_TM.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\eo_EO.ts">
+    <QtTranslate Include="data\locale\eo_EO.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
-    <QtTranslate Include="locale\fi_FI.ts">
+    <QtTranslate Include="data\locale\fi_FI.ts">
       <Filter>Translations</Filter>
     </QtTranslate>
   </ItemGroup>
